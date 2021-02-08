@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Inception Institute of AI (IIAI), Abu Dhabi, UAE.
 - 🌱 I’m currently studing computer vision.
-- 👯 I’m looking to collaborate on Camoulfaged Object Detection (COD) task.
+- 👯 I’m looking to collaborate on [Camoulfaged Object Detection (COD) task](http://dpfan.net/camouflage).
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about visual attention related topics.
 - 📫 How to reach me: Email - dengpfan@gmail.com.
